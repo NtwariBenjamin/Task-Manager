@@ -1,0 +1,4 @@
+auth:
+  trusted-services:
+    - taskService
+    - paymentService
